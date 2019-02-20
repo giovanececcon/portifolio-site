@@ -1,0 +1,23 @@
+
+main {
+    display: block;
+}
+
+.img-principal{
+    padding-bottom: 1rem;
+}
+
+.footer-container{
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+figure{
+    flex:50%;
+    max-width: 50%;
+}
+
+.titulo{
+    font-size: 15px;
+  }
+  
